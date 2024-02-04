@@ -29,11 +29,9 @@ Engineering section offers CAD services within civil and structural fields
 ## Education
 **Micro-credential** in Sustainability<br>
 [University of Helsinki](https://www.helsinki.fi/en) | _2023 - 2024_<br>
-<br>
 
 **Master of Science** in Civil Engineering<br>
 [University of Pavia](https://web-en.unipv.it/) | _2017 - 2020_<br>
-<br>
 
 **Bachelor of Science** in Civil and Environmental Engineering<br>
 [University of Pavia](https://web-en.unipv.it/) | _2014 - 2017_<br>
