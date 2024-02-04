@@ -7,7 +7,7 @@ _Computational Designer & LCA Specialist_ <br>
 ## Experience
 
 **Computational Designer** @ [Ramboll](https://www.ramboll.com/) | _Jun 2022 - Present_ <br>
-Major Crossings division operates globally on bridge and tunnel large-scale projects
+Major Crossings division operates globally on bridge and tunnel projects
 - Structural optimization of bridge and special structures
 
 **Structural Engineer** @ [Fennovoima](https://fennovoima.fi/) | _May 2021 - Jun 2022_ <br>
@@ -20,10 +20,10 @@ Engineering section offers CAD services within civil and structural fields
 
 ## Education
 **Master of Science** in Civil Engineering<br>
-[University of Pavia](https://web-en.unipv.it/) - _2017 - 2020_<br>
+[University of Pavia](https://web-en.unipv.it/) | _2017 - 2020_<br>
 
 **Bachelor of Science** in Civil and Environmental Engineering<br>
-[University of Pavia](https://web-en.unipv.it/) - _2014 - 2017_<br>
+[University of Pavia](https://web-en.unipv.it/) | _2014 - 2017_<br>
 
 # other
 - Infrastructure LCA
