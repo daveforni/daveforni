@@ -9,8 +9,7 @@ _Computational Designer & LCA Specialist_ <br>
 ZeroInfra allows to perform carbon accounting for transport infrastructure
 - Infrastructure LCA analysis and EPD verification
 - Database management to cover multiple geographies
-- User feedback and application/plug-in testing
-<br>
+- User feedback and application/plug-in testing<br>
 
 **Computational Designer** @ [Ramboll](https://www.ramboll.com/) | _Jun 2022 - Present_ <br>
 Major Crossings division operates globally on bridge and tunnel projects
