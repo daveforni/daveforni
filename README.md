@@ -11,7 +11,7 @@ davideforni.str@gmail.com
 
 #### Experience
 
-![Ramboll logo](Ramboll_Logo.svg)
+![Ramboll logo](Ramboll.png)
 ###### Computational Designer | 2022-present
 - Infrastructure LCA
 - EPD verification
