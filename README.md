@@ -10,6 +10,8 @@ davideforni.str@gmail.com
 4 years of experience in large scale construction projects (industrial, infra and major bridges), specialized in sustainability management. Demonstrated knowledge in performing infrastructure LCA, EPD verification, carbon benchmarking and reporting.
 
 #### Experience
+
+![Ramboll logo](Ramboll_Logo.svg)
 ###### Computational Designer | 2022-present
 - Infrastructure LCA
 - EPD verification
