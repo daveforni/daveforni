@@ -23,6 +23,8 @@ davideforni.str@gmail.com
 ###### Structural Engineer | 2021-2022
 - Mass balance
 - Structural optimization
+
+![Cad Crowd logo](CadCrowd.png)
 ###### Technical Drafter | 2020-2021
 - Construction detailing
 
