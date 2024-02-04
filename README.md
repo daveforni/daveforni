@@ -29,7 +29,10 @@ davideforni.str@gmail.com
 - Construction detailing
 
 #### Education
+![UniPv logo](UniPv.png)
 ###### University of Pavia | 2017-2020
-MSc Civil Engineering
+MSc Civil Engineering  
+
+![UniPv logo](UniPv.png)
 ###### University of Pavia | 2014-2017
 BSc Civil and Environmental Engineering
