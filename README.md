@@ -1,8 +1,7 @@
 # Davide Forni
 
 _Computational Designer & LCA Specialist_ <br>
-
-
+[Email](mailto:davideforni.str@gmail.com) | [LinkedIn](https://www.linkedin.com/in/davideforni-str/) | [GitHub](https://github.com/davideforni)
 
 ## Experience
 
@@ -35,32 +34,7 @@ Engineering section offers CAD services within civil and structural fields
 **Bachelor of Science** in Civil and Environmental Engineering<br>
 [University of Pavia](https://web-en.unipv.it/) | _2014 - 2017_<br>
 
-# other
-- Infrastructure LCA
-- EPD verification
-- Carbon footprinting
-- Template development
-- Application testing
-
-###### Structural Engineer | 2021-2022
-- Mass balance
-- Structural optimization
-
-###### Technical Drafter | 2020-2021
-- Construction detailing
-
-#### Education
-
-###### University of Pavia | 2017-2020
-MSc Civil Engineering<br>
-
-###### University of Pavia | 2014-2017
-BSc Civil and Environmental Engineering
-
-
-###### Contacts
-+358 44 4937757  
-davideforni.str@gmail.com
-
-#### Summary
-4 years of experience in large scale construction projects (industrial, infra and major bridges), specialized in sustainability management. Demonstrated knowledge in performing infrastructure LCA, EPD verification, carbon benchmarking and reporting.
+## Languages
+**English**: Fluent<br>
+**German**: Limited<br>
+**Italian**: Native<br>
