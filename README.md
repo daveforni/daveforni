@@ -18,6 +18,8 @@ davideforni.str@gmail.com
 - Carbon footprinting
 - Template development
 - Application testing
+  
+![Fennovoima logo](Fennovoima.png)
 ###### Structural Engineer | 2021-2022
 - Mass balance
 - Structural optimization
