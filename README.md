@@ -1,4 +1,3 @@
-# Welcome
 I make sustainable change happen by elevating computational methods and a data-driven approach.
 - LCA data pipelines
 - Component plug-ins
