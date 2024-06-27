@@ -1,26 +1,20 @@
-# :wave: Welcome
+# Welcome
 I make sustainable change happen by elevating computational methods and a data-driven approach.
 
-## :gear: I Develop 
+## I Develop 
 - LCA data pipelines
 - Component plug-ins
 - Single-page applications
 
-## :question: How
+## How
 - Object-oriented programming 
 - Full stack development
 - Scientific computing
 - Web-scraping
 - API scripting
 
-## :hammer_and_wrench: Tools
-- Python
-- Pandas
-- Jupyter Notebook
-- Google Colab
-- HTML
-- CSS
-- JavaScript
-- Markdown
-
-![Python](img/python.png)
+## Tools
+![Python](img/Python.png)&nbsp;&nbsp;&nbsp;&nbsp; ![Pandas](img/Pandas.png)&nbsp;&nbsp;&nbsp;&nbsp; ![NumPy](img/NumPy.png)&nbsp;&nbsp;&nbsp;&nbsp; ![Plotly](img/Plotly.png)&nbsp;&nbsp;&nbsp;&nbsp; ![Matplotlib](img/Matplotlib.png)  
+![Jupyter](img/Jupyter.png) ![Colab](img/Colab.png)  
+![HTML](img/HTML.png)&nbsp;&nbsp;&nbsp;&nbsp; ![CSS](img/CSS.png)&nbsp;&nbsp;&nbsp;&nbsp; ![JavaScript](img/JavaScript.png)  
+![Markdown](img/Markdown.png)
