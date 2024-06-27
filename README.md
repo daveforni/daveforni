@@ -32,3 +32,21 @@ Engineering section offers CAD services within civil and structural fields
 
 **Bachelor of Science** in Civil and Environmental Engineering <br>
 [University of Pavia](https://web-en.unipv.it/) | _2014 - 2017_ <br>
+
+
+# Welcome
+I make change happen by cracking the code of sustainability in AEC industry.
+
+
+- Computational methods
+- Data-driven approach
+- Automation
+
+## I Develop 
+- LCA/EPD data flow
+- Data pipelines
+- Grasshopper plug-ins
+
+## With
+- Python
+- Pandas
