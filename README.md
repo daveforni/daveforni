@@ -1,9 +1,9 @@
-# Welcome to My Profile
+# Welcome
 I make sustainable change happen by elevating computational methods and a data-driven approach.
 
 ## I Develop 
 - LCA data pipelines
-- Grasshopper workflows
+- Component plug-ins
 - Single-page applications
 
 ## Using
