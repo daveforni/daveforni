@@ -22,3 +22,5 @@ I make sustainable change happen by elevating computational methods and a data-d
 - CSS
 - JavaScript
 - Markdown
+
+![Python](img/python.png)
