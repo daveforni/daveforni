@@ -27,6 +27,7 @@ I make sustainable change happen by elevating computational methods and a data-d
 <p>
 <div align="center">
   <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white">
+  <img src="https://img.shields.io/badge/XML-005FAD?style=for-the-badge&logo=xml&logoColor=white">
   <img src="https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white">
 </div>
 </p>
